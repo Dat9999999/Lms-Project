@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LmsProject", "LmsProject.csproj", "{BCCDDEDB-98EA-42C6-A6A5-2BC342F8294D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCDDEDB-98EA-42C6-A6A5-2BC342F8294D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCDDEDB-98EA-42C6-A6A5-2BC342F8294D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCDDEDB-98EA-42C6-A6A5-2BC342F8294D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCDDEDB-98EA-42C6-A6A5-2BC342F8294D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
